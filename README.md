@@ -11,3 +11,8 @@ This repo contains a dataset (`data.csv`) and Python code to predict pavement ro
 ```bash
 pip install xgboost scikit-learn pandas numpy
 python pavement_xgboost.py
+
+## Run
+```bash
+pip install lightgbm
+python pavement_light_gbm.py
